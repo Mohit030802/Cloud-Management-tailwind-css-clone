@@ -2,7 +2,7 @@ import React from "react";
 import { CheckIcon } from "@heroicons/react/outline";
 const AllinOne = () => {
     return (
-        <div className="w-full my-32">
+        <div name='plat' className="w-full my-32">
             <div className="max-w-[1240px] mx-auto px-2">
                 <h2 className="text-5xl text-center font-bold">All-in-One Platform</h2>
                 <p className="text-gray-500 text-center my-8 text-2xl">

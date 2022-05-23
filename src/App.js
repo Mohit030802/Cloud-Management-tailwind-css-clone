@@ -1,6 +1,7 @@
 
 import About from './components/About';
 import AllinOne from './components/AllinOne';
+import Footer from './components/Footer';
 import Navbar from './components/Navbar'
 import NewHero from './components/NewHero';
 import Pricing from './components/Pricing';
@@ -16,6 +17,7 @@ function App() {
     <Support />
     <AllinOne />
     <Pricing />
+    <Footer />
     </>
   );
 }

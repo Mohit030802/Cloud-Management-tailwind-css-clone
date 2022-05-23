@@ -9,7 +9,7 @@ import bgimg from '../assests/cyber-bg.png'
 const NewHero = () => {
   return (
     <div>
-      <div className='w-full h-screen bg-zinc-200 flex flex-col justify-between'>
+      <div name='home' className='w-full h-screen bg-zinc-200 flex flex-col justify-between'>
         <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
             <div className='flex flex-col justify-center md:justify-start w-full px-2 py-8'>
                 <p className='text-3xl'>Unique sequencing  & Product</p>
